@@ -42,7 +42,10 @@ What I modified/reviewed manually:
 - Rewrote and trimmed copy across sections to match Accredian's actual tone after reviewing the live reference site.
 - Adjusted spacing, breakpoints, and section ordering after testing on mobile viewport sizes.
 - Verified the API route's validation logic and error handling made sense for this use case.
-- [Add any further manual changes you make before submitting — evaluators are specifically checking for this.]
+- - Fixed hero section padding/spacing after testing on different viewport sizes, since the CTAs were getting clipped on shorter screens.
+- Added a "Refer & Share" section (native share API + copy-link fallback) after reviewing that the reference site has a referral feature — this wasn't in Claude's first draft and was added based on comparing against the live reference site.
+- Tested the lead capture form end-to-end locally and verified the API route logs submissions correctly before deploying.
+- Reviewed and confirmed component structure made sense for reusability rather than accepting it as-is.
 
 ## Improvements with more time
 
