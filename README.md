@@ -2,8 +2,8 @@
 
 A partial recreation of [enterprise.accredian.com](https://enterprise.accredian.com/), built with Next.js (App Router) and Tailwind CSS, for the Full Stack Developer Intern assignment.
 
-**Live demo:** _add your Vercel URL here_
-**Repo:** _add your GitHub URL here_
+**Live demo:** https://accredian-enterprise-ten-pi.vercel.app
+**Repo:** https://github.com/MeenakshiMeti/accredian-enterprise
 
 ## Setup instructions
 
